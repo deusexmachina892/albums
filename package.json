@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "babel-eslint": "^10.0.1",
     "react": "16.8.3",
     "react-native": "0.59.1"
   },
@@ -20,6 +19,7 @@
     "@babel/preset-env": "^7.4.2",
     "@babel/runtime": "7.4.2",
     "@react-native-community/eslint-config": "0.0.3",
+    "babel-eslint": "^10.0.1",
     "babel-jest": "24.5.0",
     "eslint": "5.15.3",
     "eslint-config-airbnb": "^17.1.0",
